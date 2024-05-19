@@ -1,0 +1,45 @@
+{
+    "brands": [
+        {
+            "brand_id" : 1,
+            "brandName" : "Inked Organics",
+            "brandImage" : "brandImage1",
+            "products" : [
+                {
+                    "product_id" : 1,
+                    "productName" : "Keto Seeds Bread-2 pack item #123423",
+                    "Units" : "39",
+                    "CaseUPC" : "N/A",
+                    "BarCode" : "856711007179",
+                    "Image" : "productImage1"
+                },
+                {
+                    "product_id" : 2,
+                    "productName" : "Great White Organic Bread 22oz",
+                    "Units" : "4",
+                    "CaseUPC" : "N/A",
+                    "BarCode" : "N/A",
+                    "Image" : ""
+                }
+
+            ]
+        },
+        {
+            "brand_id" : 2,
+            "brandName" : "Moloko",
+            "brandImage" : "brandImage2",
+            "products" : [
+                {
+                    "product_id" : 1,
+                    "productName" : "Ice Cream Condensed Milk Swirl 16oz",
+                    "Units" : "1",
+                    "CaseUPC" : "N/A",
+                    "BarCode" : "N/A",
+                    "Image" : ""
+                }
+
+            ]
+        }
+
+    ]
+}
