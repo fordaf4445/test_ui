@@ -27,14 +27,4 @@ npm run android
 yarn android
 ```
 
-### For iOS
-
-```bash
-# using npm
-npm run ios
-
-# OR using Yarn
-yarn ios
-```
-
 ## java 17.0.10 2024-01-16 LTS and node v18.16.0
